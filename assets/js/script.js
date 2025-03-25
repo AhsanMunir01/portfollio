@@ -54,12 +54,13 @@ $(document).ready(function () {
     });
     // <!-- emailjs to mail contact form data -->
 
+
 });
 
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | CodeWithTanveer";
+            document.title = "Portfolio | Ahsan Munir";
             $("#favicon").attr("href", "assets/images/favicon.jpg");
         }
         else {
