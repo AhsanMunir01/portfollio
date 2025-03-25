@@ -64,7 +64,7 @@ document.addEventListener('visibilitychange',
             $("#favicon").attr("href", "assets/images/favicon.jpg");
         }
         else {
-            document.title = "Portfolio | Tanveer Ahmad";
+            document.title = "Portfolio | Ahsan Munir";
             $("#favicon").attr("href", "assets/images/favicon.jpg");
         }
     });
